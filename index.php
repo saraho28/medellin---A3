@@ -12,10 +12,12 @@
 	</head>
 
 	<body>
-		
-   		<?php
-  			include "includes/nav.php";
-  		?>
+		<div class="header">
+			<div class="name">Team Medellin</div>
+	   		<?php
+	  			include "includes/nav.php";
+	  		?>
+	  	</div>
 
 		<div class="container flexColumn">
 
@@ -50,7 +52,10 @@
 			</div><!--.container-->
 
 		</div>
-		<footer>&copy;Team Medellín</footer>	
+		
+		<?php
+  			include "includes/footer.php";
+  		?>	
 		
 	    <!-- responsive slider -->
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.js"></script>
