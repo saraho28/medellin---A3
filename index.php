@@ -25,28 +25,14 @@
 					<h2>Casey A. Brentnall</h2>
 
 					<p>Hello! My name is Casey Adam Brentnall. I am a sophomore attending the the University of Rochester and my major is computer science.</p>
-					<!-- Add a read more botton tag that leads to casey's page -->
-					<form>
-						<input type="button" value="Learn More" onclick="window.location.'http://www.urcsc174.org/assignment03/medellin/casey.php'" />
-					</form>
-
+				
 					<h2>Irfan Bashir</h2>
 
 					<p>Hello! My name is Irfan Bashir. I am a sophomore and an international student from Indian attending the University of Rochester and my major is Financial Economics.</p>
-					<!-- Add a read more botton tag that leads to Irfan's page -->
-					<form>
-						<input type="button" value="Learn More" onclick="window.location.'http://www.urcsc174.org/assignment03/medellin/irfan.php'"/>
-					</form>
-
 
 					<h2>Jimmy Yang</h2>
 
 					<p>Hello! My name is Jimmy Yang. I am a sophomore attending the University of Rochester and I am double majoring in Economics and Global Perspectives History.</p>
-					<!-- Add a read more botton tag that leads to Jimmy's page -->
-					<form>
-						<input type="button" value="Learn More" onclick="window.location.'http://www.urcsc174.org/assignment03/medellin/jimmy.php'"/>
-					</form>
-
 
 				</article>
 
