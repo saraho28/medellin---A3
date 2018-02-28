@@ -6,7 +6,9 @@
 		<title>Casey A. Brentnall, Assignment 3</title>
 		<link href="css/styles.css" rel="stylesheet">
 		<!-- links for fontface -->
-		<link href="https://fonts.googleapis.com/css?family=Lato|Roboto" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
 	</head>
 
 	<body>

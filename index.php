@@ -6,9 +6,11 @@
 		<title>Team Medellin, Assignment 3</title>
 		<link href="css/styles.css" rel="stylesheet">
 		<!-- linkfor slider.css -->
-		<link rel="stylesheet" type="text/css" href="./bootstrap/css/responsiveslides.css">
+		<link rel="stylesheet" type="text/css" href=".css/responsiveslides.css">
 		<!-- links for fontface -->
-		<link href="https://fonts.googleapis.com/css?family=Lato|Roboto" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
 	</head>
 
 	<body>
@@ -41,11 +43,11 @@
 				<!-- create a slideshow that is constantly showing the picture of the students-->
 		
 				<aside>			
-					<main class="rslides">
+					<div class="rslides">
 						<img src="images/casey.jpg" alt="Casey">
 						<img src="images/irfan.jpg" alt="Irfan">
 						<img src="images/jimmy.jpg" alt="Jimmy">
-					</main>
+					</div>
 				</aside>
 					<!--slideshow-->
 		

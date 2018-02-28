@@ -5,7 +5,9 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>Jimmy Yang, Assignment 3</title>
 		<link href="css/styles.css" rel="stylesheet">
-		<link href="https://fonts.googleapis.com/css?family=Lato|Roboto" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
 	</head>
 	<body>
 	
