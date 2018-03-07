@@ -4,22 +4,27 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>Irfan Bashir, Assignment 3</title>
+		<!-- Designer include stylesheet-->
 		<link href="css/styles.css" rel="stylesheet">
 		<!-- links for fontface -->
+		<!-- Designer include lato fonts for headers and Roboto for body text-->
 		<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 
 	</head>
 
 	<body>
-	
+	<!-- The header should include a php include-->
+	<!-- coder make sure the php files work-->
 	<div class="header">
-		<div class="name">Irfan Bashir</div>
+
+		<div class="name">Sophmore: Irfan Bashir</div>
 	    <?php
 	  		include "includes/nav.php";
 	  	?>
     </div>
-            
+     
+     <!-- The page should follow a flex layout-->       
 
 	<div class="container flexColumn">
 	   
@@ -57,6 +62,9 @@
 	    </div>
 	    
 	</div>
+
+	<!-- The footer should include a php include-->
+
 	<?php
   		include "includes/footer.php";
   	?>

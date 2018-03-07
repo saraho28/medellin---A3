@@ -4,22 +4,28 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>Team Medellin, Assignment 3</title>
+		<!-- Designer include stylesheet-->
 		<link href="css/styles.css" rel="stylesheet">
-		<!-- linkfor slider.css -->
+		<!-- designer include a link for slider.css -->
 		<link rel="stylesheet" type="text/css" href=".css/responsiveslides.css">
 		<!-- links for fontface -->
+		<!-- Designer include lato fonts for headers and Roboto for body text-->
 		<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 
 	</head>
 
 	<body>
+		<!-- The header should include a php include-->
+		<!-- coder make sure all the php files work-->
 		<div class="header">
-			<div class="name">Team Medellin</div>
+			<div class="name">Sophmores at U of R</div>
 	   		<?php
 	  			include "includes/nav.php";
 	  		?>
 	  	</div>
+
+	  	<!-- The page should follow a flex layout-->
 
 		<div class="container flexColumn">
 
@@ -54,7 +60,7 @@
 			</div><!--.container-->
 
 		</div>
-		
+		<!-- The footer should include a php include-->
 		<?php
   			include "includes/footer.php";
   		?>	
